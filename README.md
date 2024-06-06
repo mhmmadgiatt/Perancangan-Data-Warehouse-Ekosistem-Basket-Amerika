@@ -30,6 +30,9 @@ Methodology, yang terdiri dari sembilan langkah sebagai berikut :
 
 #### Proses Kimball Nine-Step Methodology
 
+#### Skema Star
+![Skema Data Warehouse](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/Skema_Star.jpg)
+
 #### Proses ETL
 1. Terdapat 4 file CSV yang merepresentasikan 1 tabel. Flat file source berisi
 tabel game, flat file source 1 berisi tabel official, flat file source 2 berisi tabel
@@ -89,5 +92,3 @@ keadaan di tiap game
 ![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/37.jpg)
 
 ![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/38.jpg)
-#### Skema Star
-![Skema Data Warehouse](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/Skema_Star.jpg)
