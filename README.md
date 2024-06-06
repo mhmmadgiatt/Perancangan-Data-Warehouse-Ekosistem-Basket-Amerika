@@ -55,39 +55,39 @@ melakukan perhitungan skoring
 #### Proses OLAP
 1. OLAP Dice Query untuk menampilkan apabila team home menang dan
 pemain yang bermain active
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/28.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/28.jpg)
 
 2. Olap RollUp Query untuk menghitung berapa kali wasit dipakai di tiap game
 dan total wasit dipakai selama seluruh permainan
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/29.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/29.jpg)
 
 3. Olap RollUp Query untuk menghitung berapa kali pemain bermain di tiap
 game dan total seluruh pemain bermain
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/30.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/30.jpg)
 
 4. Olap Slice query untuk menampilkan team home yang menang
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/31.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/31.jpg)
 
 5. Olap Slice query untuk menampilkan pemain yang active
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/33.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/33.jpg)
 
 6. Olap Slice query untuk menampilkan team home yang kalah
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/33.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/33.jpg)
 
 7. Olap Slice query untuk menampilkan pemain yang tidak active
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/34.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/34.jpg)
 
 8. Olap slice query untuk menampilkan arena dengan kapasitas >= 20000
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/35.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/35.jpg)
 
 9. Olap slice query untuk menampilkan arena dengan kapasitas <= 20000 dan >0
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/36.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/36.jpg)
 
 10. Olap query slice dan dice untuk melakukan ranking/scoring dari beberapa
 keadaan di tiap game
 
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/37.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/37.jpg)
 
-!(https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/38.jpg)
+![](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/OLAP%20Process/Foto%20Query/38.jpg)
 #### Skema Star
 ![Skema Data Warehouse](https://github.com/mhmmadgiatt/Perancangan-Data-Warehouse-Ekosistem-Basket-Amerika/blob/main/Skema_Star.jpg)
