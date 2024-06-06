@@ -55,6 +55,7 @@ melakukan perhitungan skoring
 #### Proses OLAP
 1. OLAP Dice Query untuk menampilkan apabila team home menang dan
 pemain yang bermain active
+![1]()
 
 2. Olap RollUp Query untuk menghitung berapa kali wasit dipakai di tiap game
 dan total wasit dipakai selama seluruh permainan
